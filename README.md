@@ -1,3 +1,3 @@
 # Meu repositório de exercícios
 
-Dia 03
+Dia 03 :)
