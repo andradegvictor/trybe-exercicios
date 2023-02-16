@@ -1,0 +1,38 @@
+div:hover {
+    border: 3px solid royalblue;
+}
+
+.div1 {
+    background-color: red;
+    font-style: italic;
+}
+
+.div2 {
+    background-color: green;
+}
+
+.div3 {
+    background-color: yellow;
+    height: 150px;
+    vertical-align: center;
+    font-style: italic;
+}
+
+.div3:hover {
+    border: 3px solid violet;
+}
+
+.div4 {
+    background-color: blue;
+}
+
+.div5 {
+    background-color: lightblue;
+    font-style: italic;
+}
+
+.h3ex {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightcoral;
+}
